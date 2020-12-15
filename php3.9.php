@@ -3,7 +3,18 @@ $arr = array('Yes','No');
  echo implode("|",$arr);
 echo "<br>";
 
-echo strlen("Good morning!");
+
+
+echo strpos("good morning","morning");
+echo "<br>";
+
+echo strpos("good morning","morning");
+echo "<br>";
+
+echo strpos("good morning","morning");
+echo "<br>";
+
+echo strpos("good morning","morning");
 echo "<br>";
 
 echo strpos("good morning","morning");
